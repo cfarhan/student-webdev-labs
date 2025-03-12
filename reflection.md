@@ -120,10 +120,18 @@ No I think these exercises started easy so it wasn't hard to get into.
 
 **Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
 
+Got stuck in a couple places and referred to the videos for help.
+
 **How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?**
+
+They were helpful in getting practice with javascript. The fetch and functional seem the most applicable to work we need to do.
 
 **Was there something that you wish had been explained better?**
 
+I think in general javascript has some challenges that go away after enough experience, I don't think there was a problem with the explanations themselves.
+
 **Were there other exercises that might have helped you learn this week’s topic a little better?**
+
+No
 
 ### -----------END OF Javascript SECTION-----------###
