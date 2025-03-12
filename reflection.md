@@ -18,6 +18,8 @@ Everything was explained well.
 
 I don't think so, I enjoyed this weeks exercises.
 
+### -----------END OF HTML SECTION-----------
+
 ### Accessibility
 
 **Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
@@ -36,6 +38,8 @@ Not particularly, this was a short lab.
 
 No.
 
+### -----------END OF Accessibility SECTION-----------
+
 ### CSS
 
 **Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
@@ -52,7 +56,9 @@ Not really, the videos helped explain things when I got stuck.
 
 I don't think so. I think there's just a beginner learning curve for CSS.
 
-### flexbox
+### -----------END OF CSS SECTION-----------
+
+### Flexbox
 
 **Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
 I did them during our lab time in class. I did get some help from other students but overall it was easy and straight forward.
@@ -68,3 +74,48 @@ Not really, it was straight forward and short.
 **Were there other exercises that might have helped you learn this week’s topic a little better?**
 
 I don't think so.
+
+### -----------END OF Flexbox SECTION-----------
+
+### CSS Grid
+
+**Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
+On my own, they were fairly straight forward and one of them was completed during class hours in a breakroom with others.
+
+**How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?**
+
+They were useful, I enjoyed using css grid template areas. They were intuitive.
+
+**Was there something that you wish had been explained better?**
+
+No, it was a short section.
+
+**Were there other exercises that might have helped you learn this week’s topic a little better?**
+
+Not that I'm aware of.
+
+### -----------END OF CSS Grid SECTION-----------###
+
+### Bootstrap
+
+**Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
+
+**How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?**
+
+**Was there something that you wish had been explained better?**
+
+**Were there other exercises that might have helped you learn this week’s topic a little better?**
+
+### -----------END OF Bootstrap SECTION-----------###
+
+### Javascript
+
+**Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
+
+**How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?**
+
+**Was there something that you wish had been explained better?**
+
+**Were there other exercises that might have helped you learn this week’s topic a little better?**
+
+### -----------END OF Javascript SECTION-----------###
