@@ -100,11 +100,19 @@ Not that I'm aware of.
 
 **Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
 
+Most of them. I had to look at the video for the modal because I was struggling to find the bootstrap syntax for it.
+
 **How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?**
+
+Very helpful and showed how to make effective modals, grids, and a card with bootstrap.
 
 **Was there something that you wish had been explained better?**
 
+No, it was straight forward other than the modal. I think it's just a learning curve.
+
 **Were there other exercises that might have helped you learn this week’s topic a little better?**
+
+No I think these exercises started easy so it wasn't hard to get into.
 
 ### -----------END OF Bootstrap SECTION-----------###
 
