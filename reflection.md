@@ -51,3 +51,20 @@ Not really, the videos helped explain things when I got stuck.
 **Were there other exercises that might have helped you learn this week’s topic a little better?**
 
 I don't think so. I think there's just a beginner learning curve for CSS.
+
+### flexbox
+
+**Were you able to complete the exercises on your own or did you use the videos or the solutions for help?**
+I did them during our lab time in class. I did get some help from other students but overall it was easy and straight forward.
+
+**How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?**
+
+Greatly helpful for learning flexbox syntax.
+
+**Was there something that you wish had been explained better?**
+
+Not really, it was straight forward and short.
+
+**Were there other exercises that might have helped you learn this week’s topic a little better?**
+
+I don't think so.
